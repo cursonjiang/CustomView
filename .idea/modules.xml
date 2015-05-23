@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomView.iml" filepath="$PROJECT_DIR$/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomViewPager/CustomViewPager.iml" filepath="$PROJECT_DIR$/CustomViewPager/CustomViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomView_1/CustomView_1.iml" filepath="$PROJECT_DIR$/CustomView_1/CustomView_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomView_2/CustomView_2.iml" filepath="$PROJECT_DIR$/CustomView_2/CustomView_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullDownMenu/PullDownMenu.iml" filepath="$PROJECT_DIR$/PullDownMenu/PullDownMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToggleButton/ToggleButton.iml" filepath="$PROJECT_DIR$/ToggleButton/ToggleButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerDemo/ViewPagerDemo.iml" filepath="$PROJECT_DIR$/ViewPagerDemo/ViewPagerDemo.iml" />
+    </modules>
+  </component>
+</project>

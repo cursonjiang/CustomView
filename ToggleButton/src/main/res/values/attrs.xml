@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 声明属性集的名称-->
+    <declare-styleable name="ToggleButton">
+
+        <!-- 声明一个属性 name 是my_background   类型为 引用类型 引用资源ID-->
+        <attr name="my_background" format="reference"/>
+
+        <!-- 声明一个属性 name my_slideButton   类型为 引用类型 引用资源ID-->
+        <attr name="my_slideButton" format="reference"/>
+
+        <!-- 声明一个属性 name curr_state   类型为 boolean类型-->
+        <attr name="curr_state" format="boolean"/>
+    </declare-styleable>
+</resources>
